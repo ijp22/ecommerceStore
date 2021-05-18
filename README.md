@@ -1,5 +1,5 @@
 # ecommerceStore
-From Javascript Mastery - Using React, Commerce JS and Stripe
+From Javascript Mastery - Using React, CommerceJS, Material UI and Stripe
 
 Deployed to Netlify - https://goofy-brahmagupta-52530c.netlify.app/
 
